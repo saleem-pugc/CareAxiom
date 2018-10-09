@@ -1,0 +1,12 @@
+{
+    "name": "assignment",
+    "version": "1.0.0",
+    "private": true,
+    "description": "CareAxiom Assignment",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2"
+    }
+}
